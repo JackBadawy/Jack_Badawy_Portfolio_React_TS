@@ -1,1 +1,0 @@
-# Jack_Badawy_Portfolio_React_TS
